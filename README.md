@@ -144,7 +144,7 @@ The Power BI dashboard contains three analytical pages.
 - A small group of loss-making products contributed significantly to losses in the Tables sub-category.
 - Regional and product-level analysis revealed differences in profitability across the business.
 
-> These findings describe patterns observed in the dataset and do not by themselves establish causal relationships.
+> These findings describe patterns observed in the dataset and do not by themselves causes relationship.
 
 ## Project Structure
 
