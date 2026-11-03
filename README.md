@@ -6,7 +6,7 @@ An end-to-end retail sales and profitability analysis project using Python, Pand
 
 This project analyzes the Sample Superstore dataset to identify patterns in sales, profitability, customers, products, discounts, regions, and shipping performance.
 
-The project follows a complete analytics workflow:
+The project follows a complete analytics workflow.
 
 **Data Cleaning → Exploratory Data Analysis → SQL Analysis → Power BI Dashboard**
 
